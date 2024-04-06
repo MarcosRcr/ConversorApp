@@ -21,7 +21,7 @@ Este programa Java se conecta a la API de ExchangeRate para obtener tasas de cam
 
 Este proyecto fue desarrollado como parte del programa Oracle Next Education en colaboración con Alura y Oracle.
 
-##Ejemplo de uso:
+## Ejemplo de uso:
 
 ![image](https://github.com/MarcosRcr/ConversorApp/assets/104549435/253970b5-b4df-478f-8af8-88ad83be1acf)
 
