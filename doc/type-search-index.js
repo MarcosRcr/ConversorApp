@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.marcos.conversorapp.modelos","l":"ApiConnection"},{"p":"com.marcos.conversorapp.principal","l":"Aplicacion"},{"p":"com.marcos.conversorapp.calculos","l":"Convert"},{"p":"com.marcos.conversorapp.modelos","l":"Convertidor"}];updateSearchResults();
