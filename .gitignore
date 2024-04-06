@@ -2,6 +2,7 @@
 out/
 .idea/
 ConversorApp.iml
+Manifest.txt
 ### Eclipse ###
 .apt_generated
 .classpath
